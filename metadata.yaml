@@ -1,0 +1,37 @@
+_repo: Within-The-Enemy-s-Lines_18264
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18264-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William Taylor
+    - Adams, William T. (William Taylor)
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_bookshelf:
+- US Civil War
+- Children's Fiction
+gutenberg_issued: '2006-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Blue and the Gray--Afloat, book 2
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Naval operations -- Juvenile
+  fiction'
+- !lcc 'PZ'
+- !lcsh 'War stories'
+- !lcsh 'Steamboats -- Juvenile fiction'
+title: Within The Enemy's Lines
+url: http://www.gutenberg.org/ebooks/18264
